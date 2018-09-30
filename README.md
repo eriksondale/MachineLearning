@@ -1,9 +1,9 @@
 # MachineLearning
-Generalized repo related to machine learning and data science tasks
+Generalized repo related to machine learning and data science tasks. After cleaning up my code, I will upload my implementations of common ML algorithms. Some of these will be tailored towards omputational chemistry but the underlying implementation is applicable towards many areas. 
 
-A lot of stuff here will probably be in MATLAB.... 
+I have used Python and MATLAB for ML, though I prefer Python. 
 
 ## Fun Resources
 
-* https://developers.google.com/machine-learning/crash-course/
-* https://playground.tensorflow.org
+* [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [TensorFlow Playground](https://playground.tensorflow.org)
