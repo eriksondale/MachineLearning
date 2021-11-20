@@ -1,7 +1,8 @@
 # MachineLearning
-Generalized repo related to machine learning and data science tasks. After cleaning up my code, I will upload my implementations of common ML algorithms. Some of these will be tailored towards computational bio/chemistry but the underlying implementation is applicable towards many areas. 
 
-I have used Python and MATLAB for ML, though I prefer Python. 
+# WORK IN PROGRESS 
+
+Generalized repo related to machine learning and data science tasks. After cleaning up my code, I will upload my implementations of common ML algorithms. Some of these will be tailored towards computational bio/chemistry but the underlying implementation is applicable towards many areas. 
 
 ## Fun Resources
 
